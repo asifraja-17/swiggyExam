@@ -1,6 +1,6 @@
 package ai;
 
-class Participant {
+public class Participant {
     int health;
     int strength;
     int attack;
